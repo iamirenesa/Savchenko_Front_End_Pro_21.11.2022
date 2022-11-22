@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ce71f9e-90c9-49ad-baca-1c30af6d25ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Task 3/hw3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task 3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task 4/hw4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task 4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task 5/hw5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task 5/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Task 2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Task 2/hw2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 2/hw2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 3/hw3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 4/hw4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 5/hw5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 5/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +22,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -38,18 +40,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Irina/Desktop/js",
-    "list.type.of.created.stylesheet": "CSS",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Irina/Desktop/js&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Irina\Desktop\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Irina\Desktop\js\Task 2" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,7 +72,8 @@
       <workItem from="1668895836982" duration="12000" />
       <workItem from="1668896090446" duration="1173000" />
       <workItem from="1668897599968" duration="404000" />
-      <workItem from="1669107168666" duration="303000" />
+      <workItem from="1669107168666" duration="8566000" />
+      <workItem from="1669147853613" duration="2157000" />
     </task>
     <servers />
   </component>
