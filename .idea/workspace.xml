@@ -3,14 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0ce71f9e-90c9-49ad-baca-1c30af6d25ef" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 2/hw2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 3/hw3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 3/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 4/hw4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 4/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 5/hw5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task 5/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +65,8 @@
       <workItem from="1668896090446" duration="1173000" />
       <workItem from="1668897599968" duration="404000" />
       <workItem from="1669107168666" duration="8566000" />
-      <workItem from="1669147853613" duration="2157000" />
+      <workItem from="1669147853613" duration="2829000" />
+      <workItem from="1669194363428" duration="5454000" />
     </task>
     <servers />
   </component>
@@ -93,5 +86,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Task2/hw2.js</url>
+          <line>6</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
